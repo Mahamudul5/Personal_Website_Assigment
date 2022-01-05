@@ -5,3 +5,38 @@
 body{
     font-family: 'Lobster', cursive;
 }
+.dif-color{
+    color: coral;
+}
+h1{
+    font-size: 50px;
+}
+.headline{
+    border-left: 5px solid darkblue;
+    margin: 5px;
+}
+.one{
+    display: flex;
+}
+.half-div{
+    width: 50%;
+    margin: 60px;
+}
+.img{
+    
+    height: 83%;
+    width: 70%;
+}
+p{
+    text-align: justify;
+}
+.btn{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color:white;
+    text-decoration: none;
+    padding: 7px 10px;
+    border:1px solid darkgreen;
+    
+  background-image: linear-gradient(coral ,red);
+}
