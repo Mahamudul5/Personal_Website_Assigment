@@ -57,7 +57,7 @@ p{
     width: 25%;
     text-align: justify;
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: darkkhaki;
 
     
@@ -71,7 +71,7 @@ p{
     width: 25%;
     text-align: justify;
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: cornflowerblue;
 }
     
@@ -80,9 +80,28 @@ p{
     width: 25%;
     text-align: justify;
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: darkslateblue;
     
     
     
+}
+.bg-img{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.bg-img-second{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.footer-fix{
+    text-align: center;
+    background-color: gray;
+    height: 80px;
+}
+.footer-fix p{
+    text-align: center;
 }
